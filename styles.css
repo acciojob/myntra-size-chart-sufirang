@@ -1,5 +1,33 @@
-
 /* Your CSS Code here. */
+table {
+  width: 100%;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  height: 0px;
+text-align: left;
+	background-color:red;
+}
+.td1 {
+  text-align: left;
+}
+td{
+	text-align: right;
+	
+}
+.tr1{
+	background-color:orange;
+}
+.tr2{
+	background-color:lightpink;
+}
+.tr3{
+	background-color:lightgray;
+}
 
 
       
